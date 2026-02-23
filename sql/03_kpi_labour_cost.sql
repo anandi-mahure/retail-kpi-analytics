@@ -1,4 +1,4 @@
---- ============================================================
+-- ============================================================
 -- RETAIL KPI ANALYTICS — KPI CALCULATIONS
 -- Script: 03_kpi_labour_cost.sql
 -- Purpose: Core retail KPIs — sales, labour, availability
