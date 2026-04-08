@@ -1,6 +1,6 @@
 # 🛒 Retail KPI Analytics System
 
-[![CI Pipeline](https://github.com/anandi-mahure/retail-kpi-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/anandi-mahure/retail-kpi-analytics/actions)
+![CI](https://github.com/anandi-mahure/erp-reconciliation-pipeline/actions/workflows/ci.yml/badge.svg)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-SQLite%2FPostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/Power_BI-DAX%20%7C%20RLS-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
