@@ -71,7 +71,7 @@ Power BI Dashboard
 └── Deployment pipeline configuration
 ```
 
-![Pipeline Architecture](architecture/pipeline_diagram.png)
+<img src="https://raw.githubusercontent.com/anandi-mahure/retail-kpi-analytics/main/architecture/pipeline_diagram.png" width="800" alt="Pipeline Architecture"/>
 
 ---
 
